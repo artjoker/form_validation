@@ -191,15 +191,3 @@ html code:
      </form>
      </code>
      </pre>
-
-#### Result:
-
-
-
-### Download
-
-Download and extract the [validation-2.1.zip](https://sites.google.com/site/artjokerwiki/baza-znanij/razrabotka/html/validacia-form/validation-2.1.zip?attredirects=0&amp;d=1)
-
-
-
-
